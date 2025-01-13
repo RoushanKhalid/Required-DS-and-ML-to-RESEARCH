@@ -39,7 +39,6 @@ Welcome to the **Data Science and Machine Learning Guide** repository! This repo
 ---
 ## 🛣️ Roadmap  
 
-This repository aligns with a detailed **AI & Machine Learning Learning Roadmap** to help guide your progress.  
-You can access the complete roadmap here:  
-[👉 AI & ML Learning Roadmap](https://docs.google.com/document/d/19ra-1QJEQRY4giwjMDTNCmXQSaUOBqJHvPm9qrTm5kU/edit?usp=sharing)  
+Here is the **roadmap** I follow:  [👉 AI & ML Learning Roadmap](https://docs.google.com/document/d/19ra-1QJEQRY4giwjMDTNCmXQSaUOBqJHvPm9qrTm5kU/edit?usp=sharing)  
+
 ---
